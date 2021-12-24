@@ -4,7 +4,7 @@ My code experiments while reading "Effective C" by Robert C. Seacord
 
 ## TOC
 
-- [ ] Chapter 1: Getting Started with C
+- [x] Chapter 1: Getting Started with C
   - [Basic Program](src/ch01/basic.c)
   - [Check Return Exit Code](src/ch01/check_return.c)
   - [Formatted Output](src/ch01/formatted_output.c)
