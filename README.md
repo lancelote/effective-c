@@ -10,6 +10,7 @@ My code experiments while reading "Effective C" by Robert C. Seacord
   - [Formatted Output](src/ch01/formatted_output.c)
 - [ ] Chapter 2: Objects, Functions, and Types
   - [Declaring Variables](src/ch02/declare_vars.c)
+  - [Static Usage](src/ch02/static_usage.c)
 - [ ] Chapter 3: Arithmetic Types
 - [ ] Chapter 4: Expressions and Operators
 - [ ] Chapter 5: Control Flow
