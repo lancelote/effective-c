@@ -9,6 +9,7 @@ My code experiments while reading "Effective C" by Robert C. Seacord
   - [Check Return Exit Code](src/ch01/check_return.c)
   - [Formatted Output](src/ch01/formatted_output.c)
 - [ ] Chapter 2: Objects, Functions, and Types
+  - [Declaring Variables](src/ch02/declare_vars.c)
 - [ ] Chapter 3: Arithmetic Types
 - [ ] Chapter 4: Expressions and Operators
 - [ ] Chapter 5: Control Flow
